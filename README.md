@@ -54,9 +54,4 @@ MONGO_URI="
 JWT_SECRET = ""
 ```
 
-## Contributing
-
-Contributions are always welcome!😊
-
-
 
